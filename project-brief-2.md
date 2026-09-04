@@ -1,4 +1,4 @@
-# Web Mapping of Health Facility Accessibility in Ife Central LGA, Osun State
+# Web GIS Application for Health Facility Accessibility in Ife Central LGA, Osun State
 
 ## The question
 
@@ -21,7 +21,7 @@ The LGA boundary defines the study area. Health-facility locations show where he
 
 ## What I expect to produce
 
-The main output will be an **interactive web map** of health facility accessibility in Ife Central LGA. The web map will allow users to explore the LGA boundary, health facilities, population distribution, road network, and the results of the accessibility analysis. It will include appropriate map layers, symbology, and interactive information such as feature pop-ups. The analysis will help identify areas where access to health facilities may be relatively poor and provide a basis for highlighting potentially underserved areas.
+The main output will be an **interactive web GIS application** for exploring health facility accessibility in Ife Central LGA. The application will use the prepared spatial dataset to allow users to interact with the study area ,the LGA boundary, health facilities, population distribution, road network, and the results of the accessibility analysis. The project will begin with data preparation and spatial analysis in QGIS and progressively develop toward a web-based GIS solution.
 
 ## Data checks and limitations
 
