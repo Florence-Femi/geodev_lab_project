@@ -6,13 +6,13 @@ How accessible are health facilities to the population of Ife Central LGA, Osun 
 
 ## The data I need
 
-- **Ife Central LGA boundary** — GRID3, NGA LGA Boundaries — GeoPackage — approximately 120 KB. The Ife Central LGA boundary was selected from the Nigeria-wide LGA boundary dataset.
+- **Ife Central LGA boundary** - GRID3, NGA LGA Boundaries - GeoPackage - approximately 120 KB. The Ife Central LGA boundary was selected from the Nigeria-wide LGA boundary dataset.
   - Source: https://data.grid3.org/
-- **Health facilities** — GRID3, Nigeria Health Facilities — GeoPackage — approximately 72 KB.
+- **Health facilities** - GRID3, Nigeria Health Facilities - GeoPackage - approximately 72 KB.
   - Source: https://data.grid3.org/
-- **Population** — GRID3, NGA Population v3.0 Gridded — raster — approximately 44,661 KB (43.6 MB). The population raster was clipped to the Ife Central LGA boundary.
+- **Population** - GRID3, NGA Population v3.0 Gridded - raster - approximately 44,661 KB (43.6 MB). The population raster was clipped to the Ife Central LGA boundary.
   - Source: https://data.grid3.org/
-- **Road network** — OpenStreetMap (OSM), extracted using QuickOSM for Ife Central — vector layer — approximately 1,124 KB (1.1 MB).
+- **Road network** - OpenStreetMap (OSM), extracted using QuickOSM for Ife Central - vector layer - approximately 1,124 KB (1.1 MB).
   - Source: https://www.openstreetmap.org/
 
 ## Why I need these data
