@@ -1,0 +1,28 @@
+# Data notes
+
+##GRID3 Nigeria Health Facilities
+
+- Source: https://data.grid3.org
+- Downloaded: 9-4-2026
+- 48 features, points
+- Columns: fid, OBJECTID, unique_id, latitude, longitude, country, iso, state_standard, lga_standard, ward_standard, ward_bdry, ward_in_grid3_ward_list, facility_name, alt_name, settlement_name, facility_level, facility_type, facility_ownership, facility_ownership_type, functional, date_created, sett_ext_type, mgrs_code, input_data_record_ids, input_data_sources, nhfr_facility_code, gps_accuracy, sett_ext_dist_km, dist_ward_grid3_bdry_km, flag1, flag2, flag3, flag4, flag5, flag6, issues, flag_count
+- Nulls: alt_name has some nulls; settlement_name and nhfr_facility_code are completely blank; gps_accuracy has some nulls; dist_ward_grid3_bdry_km is mostly null; flag1–flag6 are mostly or completely null.
+- Coverage looks correct for the study area.
+
+##Roads
+
+- Source: OpenStreetMap (OSM), downloaded using QuickOSM
+- Downloaded: 9-4-2026
+- Road features, lines
+- Columns: fid, full_id, osm_id, osm_type, highway, surface, covered, track_type, maxspeed, service, layer, bridge, lane_markings, residential, junction, width, sidewalk, ref, one_way, foot, and others
+- Nulls: covered, track_type, maxspeed, service, layer, bridge, lane_markings, residential, junction, width, sidewalk, ref, one_way, foot, and other road attribute fields contain null values.
+- Coverage looks correct for the study area.
+
+##NGA_LGA_Boundaries
+
+- Source: GRID3
+- Downloaded: 9-4-2026
+- 1 feature, polygon
+- Columns: FID, globalid, uniq_id, timestamp, editor, lganame, lgacode, statename, statecode, source, map code
+- Nulls: no null feature
+- Coverage looks correct for the study area.
