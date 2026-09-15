@@ -1,6 +1,6 @@
-# Data notes
+ Data notes
 
-##GRID3 Nigeria Health Facilities
+GRID3 Nigeria Health Facilities
 
 - Source: https://data.grid3.org
 - Downloaded: 9-4-2026
@@ -9,7 +9,7 @@
 - Nulls: alt_name has some nulls; settlement_name and nhfr_facility_code are completely blank; gps_accuracy has some nulls; dist_ward_grid3_bdry_km is mostly null; flag1–flag6 are mostly or completely null.
 - Coverage looks correct for the study area.
 
-##Roads
+Roads
 
 - Source: OpenStreetMap (OSM), downloaded using QuickOSM
 - Downloaded: 9-4-2026
@@ -18,7 +18,7 @@
 - Nulls: covered, track_type, maxspeed, service, layer, bridge, lane_markings, residential, junction, width, sidewalk, ref, one_way, foot, and other road attribute fields contain null values.
 - Coverage looks correct for the study area.
 
-##NGA_LGA_Boundaries
+NGA_LGA_Boundaries
 
 - Source: GRID3
 - Downloaded: 9-4-2026
