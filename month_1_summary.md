@@ -1,4 +1,4 @@
- ## Month 1 Summary
+ # Month 1 Summary
 
 ## Question:
 What proportion of Ife Central's population falls outside a 2km buffer 
