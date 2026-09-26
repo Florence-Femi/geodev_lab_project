@@ -1,4 +1,4 @@
-## Data notes
+# Data notes
 
 ## GRID3 Nigeria Health Facilities
 
