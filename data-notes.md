@@ -1,6 +1,6 @@
- Data notes
+## Data notes
 
-GRID3 Nigeria Health Facilities
+## GRID3 Nigeria Health Facilities
 
 - Source: https://data.grid3.org.
 - Downloaded: 9-4-2026.
@@ -14,7 +14,7 @@ GRID3 Nigeria Health Facilities
   dist_ward_grid3_bdry_km is mostly null; flag1–flag6 are mostly or completely null.
 - Coverage looks correct for the study area.
 
-Roads
+## Roads
 
 - Source: OpenStreetMap (OSM), downloaded using QuickOSM.
 - Downloaded: 9-4-2026.
@@ -25,7 +25,7 @@ Roads
   one_way, foot, and other road attribute fields contain null values.
 - Coverage looks correct for the study area.
 
-NGA_LGA_Boundaries
+## NGA_LGA_Boundaries
 
 - Source: GRID3.
 - Downloaded: 9-4-2026.
@@ -34,7 +34,7 @@ NGA_LGA_Boundaries
 - Nulls: no null feature.
 - Coverage looks correct for the study area.
 
-  CRS and preparation
+  ## CRS and preparation
 
 - All source layers arrived in EPSG:4326.
 - Study area: Ife Central, extracted from GRID3 LGA boundary (lgacode 30011).
