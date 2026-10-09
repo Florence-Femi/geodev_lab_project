@@ -12,3 +12,4 @@ the buffer,supported by a final map layout.
 
 ### Month 2 : development environment and early Python
 - week 5: set up Python, VS Code and the terminal.
+- week 6: set up the project with uv and added pandas. check.py prints the pandas version.
