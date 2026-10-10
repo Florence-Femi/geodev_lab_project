@@ -16,7 +16,7 @@ part of Ife Central, where most facilities are concentrated, leaving
 western and southern parts of the LGA with population but no nearby 
 coverage.
 
-Numeric prediction: I expected roughly about 10% of the population to fall outside the 2km buffer.
+Numeric prediction: I expected roughly 10% of the population to fall outside the 2km buffer.
 
 ## What I got
 Total population (population_clipped_utm31): 278,466.44
