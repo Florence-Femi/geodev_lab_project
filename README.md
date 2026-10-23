@@ -14,3 +14,4 @@ the buffer,supported by a final map layout.
 - week 5: set up Python, VS Code and the terminal.
 - week 6: set up the project with uv and added pandas. check.py prints the pandas version.
 - week 7: analyse.py reads wards.csv,converts each area and classifies each ward.
+- week 8: inspect_data.py summarises distance to ward boundary (dist_ward_grid3_bdry_km) and latitude in my GRID3 health facilities data for Ife Central.
