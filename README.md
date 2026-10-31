@@ -17,7 +17,7 @@ the buffer,supported by a final map layout.
 - week 8: inspect_data.py summarises distance to ward boundary (dist_ward_grid3_bdry_km) and latitude in my GRID3 health facilities data for Ife Central.
 - week 9: summary.py refactors my Week 8 inspection into read_rows, clean_values, summarise and summarise_all, and summarises dist_ward_grid3_bdry_km, latitude and longitude in my GRID3 health facilities data for Ife Central.
 
-- ### Month 2 reflection
+   ### Month 2 reflection
 - Idea that finally clicked this month is the difference between print and return: return hands a result back so other code can use it, while print only shows it on the screen. 
 - I can now use VS Code and the terminal with ease to write and run my scripts.
 - Nothing from this month feels fuzzy.
