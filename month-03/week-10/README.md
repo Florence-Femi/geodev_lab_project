@@ -1,14 +1,14 @@
 # Week 10: GeoPandas
 
 ## What this folder contains
- -explore_pandas.py: first look at the ward population table.
- -filter_sort.py: filter,sort and add a column.
- -explore_layer.py: open a vector layer.
- -geom_props.py: look inside one geometry.
- -csv_to_points.py: turn a CSV of coordinates into points.
- -join_population.py: join population to wards,and fix what does not match.
- -make_map.py: draw a map and save it.
- -save_outputs.py: save outputs.
+ - explore_pandas.py: first look at the ward population table.
+ - filter_sort.py: filter,sort and add a column.
+ - explore_layer.py: open a vector layer.
+ - geom_props.py: look inside one geometry.
+ - csv_to_points.py: turn a CSV of coordinates into points.
+ - join_population.py: join population to wards,and fix what does not match.
+ - make_map.py: draw a map and save it.
+ - save_outputs.py: save outputs.
 
 Outputs: facilities_map.png and wards_table.csv.
 
