@@ -22,3 +22,6 @@ the buffer,supported by a final map layout.
 - I can now use VS Code and the terminal with ease to write and run my scripts.
 - Nothing from this month feels fuzzy.
 - My capstone showed that only 17 of my 48 health facilities have a value in dist_ward_grid3_bdry_km, so that column does not have enough information to rely on, while latitude and longitude are complete.
+
+### Month 3: geospatial Python and automation
+- Week 10: GeoPandas. Loaded, checked, joined and mapped my wards layer in code.
