@@ -25,3 +25,4 @@ the buffer,supported by a final map layout.
 
 ### Month 3: geospatial Python and automation
 - Week 10: GeoPandas. Loaded, checked, joined and mapped my wards layer in code.
+- Week 11: Reprojection to the right UTM zone, counted points within each polygon, and performed nearest-distance analysis.
