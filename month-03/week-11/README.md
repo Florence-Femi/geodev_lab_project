@@ -21,7 +21,7 @@
 - my_validity.py: counts invalid geometries in the wards and the LGA boundary, repairs them with make_valid and counts again.
 - my_map.py: draws the uncovered areas in red over the wards, with the older LGA boundary and the facilities.
 
-Outputs: my_map.png. Result layers in data/processed: my_wards_utm31.gpkg, my_wards_counts.gpkg and my_uncovered.gpkg.
+Outputs: my_map.png. Result layers in data/processed: my_wards_utm31.gpkg, my_ward_counts.gpkg and my_uncovered.gpkg.
 
 ## How to run it
 
